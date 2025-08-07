@@ -1,1 +1,1 @@
-# hope
+# hope is hard
